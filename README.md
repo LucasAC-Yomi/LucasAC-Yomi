@@ -1,1 +1,1 @@
-![Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yomi&api_domain=wa.kalli.st&bg_color=111111&title_color=FF0000&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Stats&layout=compact##)
+![Wakapi Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yomi&api_domain=wa.fnord.systems&bg_color=111111&title_color=FF0000&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Stats&layout=compact##)
